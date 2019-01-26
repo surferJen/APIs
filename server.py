@@ -1,4 +1,4 @@
-from pprint import pformat, pprint
+from pprint import pformat
 import os
 
 
